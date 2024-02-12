@@ -16,7 +16,7 @@ Arpier - это скрипт на Bash для выполнения атаки AR
 <pre style="animation: blink 1s infinite;">
 git clone <span style="color: blue;">https://github.com/BlackGonza/arpier.git</span>
 <span style="color: red;">cd</span> arpier
-
+</pre>
 2. Запустите скрипт:
 <pre>
 sudo bash arpier.sh
